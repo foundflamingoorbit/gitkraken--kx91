@@ -1,4 +1,4 @@
-# 
+# Enhance GitKraken for PC | GitKraken for Windows with premium GitKraken for PC | GitKraken for Windows Addon | branch-visualization + pull-request-management, the #1 addon.
 
 
 
